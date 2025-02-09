@@ -1,16 +1,20 @@
-## Hi there 👋
+## Assalamu Alaykum 👋
 
-<!--
-**mshirazkamran/mshirazkamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Muhammad Shiraz Kamran  
 
-Here are some ideas to get you started:
+🎓 **Software Engineering Student** | COMSATS University, Islamabad (4th Semester)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Learning & Exploring**  
+I am currently learning **Java**, **JavaScript**, and essential technologies like **Git & GitHub**, **Docker**.  
+I enjoy coding in **VS Code** and **JetBrains IntelliJ IDEA**.  
+
+🚀 **Mindset**  
+I'm new to the world of software engineering and believe that taking **small, easy steps** leads to big changes.  
+
+🏸 **Beyond Code**  
+I love playing **badminton** and discussing **tech news**.  
+
+📬 **Let's Connect**  
+Find me on **[LinkedIn](https://linkedin.com/in/mshirazkamran)** (Click here or find it linked to my GitHub profile).  
+
+
