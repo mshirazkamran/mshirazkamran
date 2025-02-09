@@ -1,4 +1,4 @@
-## Assalamu Alaykum 👋
+## Assalamu Alaykum
 # 👋 Hey there, I'm Muhammad Shiraz Kamran!  
 
 🎓 **Software Engineering Student** | COMSATS University, Islamabad  
