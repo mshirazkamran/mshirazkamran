@@ -2,7 +2,7 @@
 # 👋 Hey there, I'm Muhammad Shiraz Kamran!  
 
 🎓 **Software Engineering Student** | COMSATS University, Islamabad  
-📅 **4th Semester (1.5 years into my 4-year degree)**  
+📅 **4th Semester (1.5 years into my 4-year degree, will be done by June 2025)**  
 
 ---  
 
