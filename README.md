@@ -2,14 +2,14 @@
 # 👋 Hey there, I'm Muhammad Shiraz Kamran!  
 
 🎓 **Software Engineering Student** | COMSATS University, Islamabad  
-📅 **5th Semester (2 years into my 4-year degree)**  
+📅 **6th Semester (2.5 years into my 4-year degree)**  
 
 ---  
 
 ## 🚀 About Me  
 I am passionate about **software development** and continuously exploring new technologies. Currently I'm learning:  
 
-- 🖥️ **Programming Languages**: Java, JavaScript and python :)  
+- 🖥️ **Programming Languages**: Java, JavaScript, React and python :)  
 - 🛠️ **Technologies & Tools**: Git & GitHub, Docker, Canva, Netlify, Render 
 - 🏗️ **IDEs & Editors**: VS Code, JetBrains IntelliJ IDEA, nano  
 
