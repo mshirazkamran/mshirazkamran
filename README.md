@@ -1,7 +1,7 @@
 ## Assalamu Alaykum
 # 👋 Hey there, I'm Muhammad Shiraz Kamran!  
 
-## [mshiraz.tech](https://mshiraz.tech <-- My portfolio Website
+## [mshiraz.tech](https://mshiraz.tech) <-- My portfolio Website
 
 🎓 **Software Engineering Student** | COMSATS University, Islamabad  
 📅 **6th Semester (2.5 years into my 4-year degree)**  
