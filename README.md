@@ -4,7 +4,7 @@
 ## [mshiraz.com](https://mshiraz.com) <-- My portfolio Website
 
 🎓 **Software Engineering Student** | COMSATS University, Islamabad  
-📅 **6th Semester (2.5 years into my 4-year degree)**  
+📅 **7th Semester 3 years into my 4-year degree)**  
 
 ---  
 
