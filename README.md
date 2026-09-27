@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://mshiraz.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mshiraz.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <br>
   <a href="https://linkedin.com/in/mshirazkamran"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mshirazkamran-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
