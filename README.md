@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://mshiraz.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mshiraz.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <br>
-  <img src="assets/up-arrow.svg" width="30" height="30">
+  <img src="./up-arrow.svg" width="30" height="30">
   <br>
   <a href="https://linkedin.com/in/mshirazkamran"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mshirazkamran-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
@@ -55,7 +55,7 @@ I'm passionate about **software development** and always exploring new technolog
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mshirazkamran/mshirazkamran/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/mshirazkamran/mshirazkamran/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ---
