@@ -16,8 +16,8 @@
 ---
 
 ###  About Me
-
-I'm passionate about **software development** and always exploring new technologies. I'm new to the world of CS/SE and believe **small, consistent steps lead to big changes**.
+ - Interned at **PSO** (Pakistan State Oil)
+ - I'm passionate about **software development** and always exploring new technologies. I believe **small, consistent steps lead to big changes**.
 
 - 🔭 Currently building projects across web dev, backend systems, and automation
 - 🌱 Learning something new every semester — from data structures to cloud tools
